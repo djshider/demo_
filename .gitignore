@@ -1,0 +1,8 @@
+# 虚拟环境，不要上传
+.venv/
+# pycharm配置文件
+.idea/
+# python缓存
+__pycache__/
+*.pyc
+*.log
